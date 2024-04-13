@@ -1,0 +1,34 @@
+Author: tammmarra <tamara.sinadinoska@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:45:54 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit 2e818349117301251e748d9774b2e5b28ca6215a
+Author: tammmarra <tamara.sinadinoska@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:36:46 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit b262528cf64d19ac8531547f0cb5dcd1a84006c7 (origin/bug1, bug1)
+Author: tammmarra <tamara.sinadinoska@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:43:08 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 6014dbb8fb6b7ca3d3c59433e1fb484bc79b513a
+Author: tammmarra <tamara.sinadinoska@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:32:40 2024 +0200
+
+     Fix wrong condition in filterOddLengthStrings
+
+commit 224784811259068079bee49386f6b5a575c979cd
+Author: tammmarra <tamara.sinadinoska@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:17:31 2024 +0200
+
+    Add starter code
+
+commit 495a796c3d0bd0411d936c4b4be4440a1480dc6e
+Author: tammmarra <tamara.sinadinoska@students.finki.ukim.mk>
+Date:   Sat Apr 13 15:12:41 2024 +0200
+
+    Initial commit
